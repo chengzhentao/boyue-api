@@ -1,0 +1,12 @@
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/entity/Order.java
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/common/PageList.java
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/mapper/DetailMapper.java
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/vo/OrderInfoVO.java
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/common/Result.java
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/controller/OrderController.java
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/controller/DetailController.java
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/service/OrderService.java
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/controller/IndexController.java
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/entity/Detail.java
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/mapper/OrderMapper.java
+/Users/chengzhentao/workspace2/boyue-api/src/main/java/com/boyue/AppMain.java
